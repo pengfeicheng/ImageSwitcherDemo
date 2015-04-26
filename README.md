@@ -1,2 +1,5 @@
 # ImageSwitcherDemo
+
 Android ImageSwitcher component sample
+
+Android中的ImageSwitcher控件的使用示例，使用ImageSwitcher控件来实现图片的左右滑动功能
